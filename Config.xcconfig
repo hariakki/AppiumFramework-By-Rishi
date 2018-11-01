@@ -1,0 +1,9 @@
+//
+//  Config.xcconfig
+//  WebDriverAgent
+//
+//  Created by Dalwinder Singh on 3/23/17.
+//
+
+DEVELOPMENT_TEAM = 5UQQFX75TQ
+CODE_SIGN_IDENTITY = iPhone Developer
