@@ -1,0 +1,6 @@
+com/twinspires/qa/ios/pageobjects/SpeedClassPAceView.class
+com/twinspires/qa/ios/pageobjects/IOSPageObject.class
+com/twinspires/qa/ios/pageobjects/LoginView.class
+com/twinspires/qa/ios/pageobjects/TodayRacesView.class
+com/twinspires/qa/ios/dataobjects/TodayRacesData.class
+com/twinspires/qa/ios/pageobjects/ProgramView.class
